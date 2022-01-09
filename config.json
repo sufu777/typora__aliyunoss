@@ -1,0 +1,8 @@
+{
+  "accessKeyId": "your aliyun accessKeyId",
+  "accessKeySecret": "your aliyun accessKeySecret",
+  "bucket": "Bucket111",
+  "area": "cn-chengdu",
+  "path": "typora_imgs",
+  "customUrl": ""
+}
